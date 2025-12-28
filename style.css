@@ -1,0 +1,30 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial;
+}
+
+.container {
+    background: white;
+    width: 600px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.tagline {
+    text-align: center;
+    color: gray;
+}
+
+h2 {
+    color: #0066cc;
+}
+
+ul {
+    line-height: 1.8;
+}
